@@ -2,6 +2,7 @@
     margin: 0px;
     padding:0px;
     box-sizing: border-box;
+    font-family: 'Inter';
 }
 /* logo css*/
 .logotext{
@@ -55,4 +56,123 @@ letter-spacing: 0.16px;
 .upcome-batch{
     height: 40px;
     text-align: center;
+}
+.hero-section{
+    border:1px solid black;
+    height: 750px;
+}
+.card{
+    width: 415px;
+    height: 500px;
+    border:1px solid black;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:10px;
+}
+.c-4{
+    border-radius: 8px;
+background: var(--New, linear-gradient(277deg, #992FED 0%, #2F80ED 100%));
+color:white;
+width: 360px;
+height:50px;
+text-align: center;
+font-size: 20px;
+}
+.c-text{
+    color: #818D9D;
+font-size: 16px;
+text-align: center;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.c-3>div{
+  
+    margin:10px;
+   margin-left:0px;
+}
+.c-3>span{
+    text-align: left;
+}
+#h11-t1{
+    color: var(--BLACK, #2B2F34);
+font-size: 50px;
+font-style: italic;
+font-weight: 400;
+line-height: 130%; /* 65px */
+letter-spacing: -0.75px;
+
+}
+#h11-t2{
+    color: var(--primaryskyblue, #2F80ED);
+font-size: 50px;
+font-style: italic;
+font-weight: 700;
+line-height: 130%; /* 65px */
+letter-spacing: -0.75px;
+}
+#h11-d{
+    color: var(--BLACK, #2B2F34);
+font-size: 50px;
+font-style: italic;
+font-weight: 700;
+line-height: 130%;
+letter-spacing: -0.75px;
+}
+.h-1-2{
+    color: var(--textlabelcolorscharcoal, #595959);
+    font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 23.4px */
+letter-spacing: 0.36px;
+}
+#loveaccio{
+     background-color: white;
+     height: 40px;
+     width:330px;
+     font-size: 40x;
+     text-align: center;
+     border-radius:40px;
+     padding-top:8px;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.h-1-3{
+    width:700px;
+    height:100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+    border-radius: 10px;
+}
+.h-1>div{
+    margin:30px;
+}
+#h13-md{
+    color: var(--BLACK, #2B2F34);
+font-size: 25px;
+font-style: italic;
+font-weight: 400;
+line-height: 130%; /* 26px */
+}
+#h13-mt{
+    color: var(--Gray-2, #4F4F4F);
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 155%; /* 18.6px */
+letter-spacing: 0.12px;
+}
+#h13-b{
+    border-radius:50%;
+    padding:10px;
+    background-color: #FFE1DF;
+}
+#h13-b1{
+    border-radius:50%;
+    padding:10px;
+    background-color: #DFFFE4;;
+}
+.h133{
+
+    height: 100px;
+    width: 150px;
 }
