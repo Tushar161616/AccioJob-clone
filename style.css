@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+/* logo css*/
+.logotext{
+    color: #012555;
+font-size: 21.714px;
+font-style: normal;
+font-weight: 600;
+line-height: 38px; /* 175% */
+letter-spacing: -0.869px;
+}
+.v-line{
+    height: 70px;
+}
+nav{
+    height: 90px;
+    position:sticky;
+    top:0px;
+}
+.logo-item>div{
+    margin:20px;
+}
+.acciologo>div{
+    margin:20px;
+}
+.acciologo>img{
+    margin:20px;
+}
+.acciologo>span{
+    margin:20px;
+}
+.l-tex{
+    color: var(--Gray-2, #4F4F4F);
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 155%; /* 24.8px */
+letter-spacing: 0.16px;
+}
+.btn{
+    width:150px;
+    height: 50px;
+}
+.upcome-batch>div{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%; /* 21px */
+    letter-spacing: 0.28px;
+    padding-top:5px;
+}
+.upcome-batch{
+    height: 40px;
+    text-align: center;
+}
