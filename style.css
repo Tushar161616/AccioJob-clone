@@ -58,13 +58,12 @@ letter-spacing: 0.16px;
     text-align: center;
 }
 .hero-section{
-    border:1px solid black;
-    height: 1000px;
+    height: 750px;
+    margin-bottom:50px;
 }
 .card{
     width: 415px;
     height: 500px;
-    border:1px solid black;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding:10px;
 }
@@ -85,6 +84,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 150%; /* 24px */
 }
+
 .c-3>div{
   
     margin:10px;
@@ -176,3 +176,99 @@ letter-spacing: 0.12px;
     height: 100px;
     width: 150px;
 }
+/* course-section css */
+.course-section{
+    background-color: rgb(236,248,255);
+}
+#cs-1t{
+    margin-top:50px;
+    text-align: center;
+font-size: 20px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.6px;
+text-transform: uppercase;
+
+background: var(--New, linear-gradient(277deg, #992FED 0%, #2F80ED 100%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+#cs-1t2{
+    margin-bottom:50px;
+    color: #2F80ED;
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 54px */
+letter-spacing: -0.54px;
+}
+.cs-2{
+    /* border: 1px solid black; */
+    width:1100px;
+    height: 600px;
+    margin:auto;
+    margin-bottom: 50px;
+    
+}
+.cs2{
+    border: 1px solid black;
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+}
+.cs15b1{
+    padding: 14px 6px 14px 16px;
+    font-size: 18px;
+    font-style: italic;
+    height: 55px;
+    font-weight: 400;
+    width: 200px;
+    line-height: 150%; /* 27px */
+}
+.cs15b2{
+    padding: 14px 6px 14px 16px;
+    border:none;
+    color:white;
+    width:200px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+.cs11{
+    color: var(--BLACK, #2B2F34);
+font-size: 26px;
+font-style: italic;
+font-weight: 400;
+text-align: center;
+line-height: normal;
+}
+.cs12b{
+    border-radius: 7px;
+background: #E0F3FF;
+padding: 6px 15px;
+margin:10px;
+}
+.cs12b2{
+    border-radius: 7px;
+background: #FFEED8;
+padding: 6px 15px;
+margin:10px;
+}
+.cs13{
+    color: #565656;
+font-size: 16px;
+font-style: normal;
+text-align: center;
+font-weight: 400;
+line-height: 150%; /* 21px */
+}
+.cs14>table{
+    margin:auto;
+}
+
+
+
